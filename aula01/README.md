@@ -31,8 +31,11 @@ Dentro da pasta `dimdim_bank`, foram criados os seguintes diretórios:
 
 ---
 
-## 📄 Criação dos logs
+## 🛠️ Etapas realizadas no projeto
+
+### 📁 Criação da estrutura de diretórios
 
 ```bash
-cd logs
-touch sistema_dimdim.log acesso_usuarios.log transacoes_api.log erro_sistema.log
+mkdir dimdim_bank
+cd dimdim_bank
+mkdir clientes transacoes logs relatorios backup
