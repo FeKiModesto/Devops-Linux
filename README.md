@@ -1,27 +1,48 @@
-```markdown
 # 💻 Projeto DevOps - Linux
 
-Repositório desenvolvido para a disciplina de DevOps com foco em práticas utilizando o sistema operacional Linux.
+Este repositório contém atividades práticas da disciplina de DevOps, desenvolvidas utilizando uma máquina virtual Linux na Azure.
 
-O projeto consiste na realização de atividades práticas organizadas por aulas, com uso de terminal, Git e GitHub.
+O objetivo é aplicar comandos básicos do Linux, organização de arquivos e versionamento com Git.
 
 ---
 
 ## 📚 Estrutura do projeto
 
-- aula01 → Comandos básicos Linux e manipulação de arquivos
-- aula02 → (em desenvolvimento)
+### 📁 aula01
+- Simulação de sistema bancário
+- Criação de diretórios e arquivos
+- Organização de clientes, transações e logs
+
+### 📁 aula02
+- (em desenvolvimento)
+
+### 📁 aula03
+- (em desenvolvimento)
 
 ---
 
-## 📂 Descrição da Aula 01
+## 📘 Detalhamento da Aula 01
 
-Na aula 01 foi criada uma simulação de sistema bancário com a seguinte estrutura:
+Na aula 01 foi criado um sistema simulado com a seguinte estrutura:
 
-- Organização de clientes
-- Registro de transações
-- Criação de logs do sistema
-- Estrutura para relatórios e backup
+### 📁 clientes
+- cliente_001_joao_silva.txt
+- cliente_002_maria_santos.txt
+- cliente_003_pedro_oliveira.txt
+
+### 📁 transacoes
+- transacoes_janeiro_2025.txt
+- transacoes_fevereiro_2025.txt
+
+### 📁 logs
+- sistema_dimdim.log
+- acesso_usuarios.log
+- transacoes_api.log
+- erro_sistema.log
+
+### 📁 relatorios
+
+### 📁 backup
 
 ---
 
@@ -34,9 +55,9 @@ Na aula 01 foi criada uma simulação de sistema bancário com a seguinte estrut
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Objetivo do projeto
 
-Aplicar na prática conceitos fundamentais de Linux e versionamento de código, essenciais para ambientes DevOps.
+Praticar conceitos fundamentais de Linux e versionamento, essenciais para ambientes DevOps.
 
 ---
 
