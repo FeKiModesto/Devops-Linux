@@ -11,13 +11,13 @@ Foi desenvolvida uma simulação de sistema bancário para organizar dados de cl
 Dentro da pasta `dimdim_bank`, foram criados os seguintes diretórios:
 
 ### 📁 clientes
-- cliente_001_joao_silva.txt
-- cliente_002_maria_santos.txt
-- cliente_003_pedro_oliveira.txt
+- cliente_001.txt
+- cliente_002.txt
+- cliente_003.txt
 
 ### 📁 transacoes
-- transacoes_janeiro_2025.txt
-- transacoes_fevereiro_2025.txt
+- transacoes-jan.tsx
+- transacoes-fev.tsx
 
 ### 📁 logs
 - sistema_dimdim.log
