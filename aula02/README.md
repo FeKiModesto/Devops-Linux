@@ -15,7 +15,7 @@ Nesta aula foram realizados exercícios voltados à manipulação de arquivos, b
 - erros.log
 
 ### 📁 backup
-- cópia dos arquivos .txt
+- cópia dos arquivos.txt
 
 ---
 
@@ -23,43 +23,47 @@ Nesta aula foram realizados exercícios voltados à manipulação de arquivos, b
 
 ### 📄 Criação de arquivos
 
-#### ✍️ Inserção de dados
--echo "Usuario: Joao" > usuarios.txt
--echo "Erro: falha de conexão" > erros.log
+### ✍️ Inserção de dados
+echo "Usuario: Joao" > usuarios.txt
+echo "Erro: falha de conexão" > erros.log
 
-##### 🔍 Busca de informações
--grep "Maria" usuarios.txt
--grep "Erro" erros.log
+### 🔍 Busca de informações
+grep "Maria" usuarios.txt
+grep "Erro" erros.log
 
-###### 📊 Análise de dados
--wc -l usuarios.txt
--wc -w usuarios.txt
+#### 📊 Análise de dados
+wc -l usuarios.txt
+wc -w usuarios.txt
 
-####### ⚙️ Processos do sistema
+### ⚙️ Processos do sistema
 -ps
 -top
 
-######## 📁 Backup de arquivos
+### 📁 Backup de arquivos
 -mkdir backup
 -cp *.txt backup/
 
-######### 🔎 Visualização
+### 🔎 Visualização
 -cat usuarios.txt
 -tail erros.log
 
-########## ⚙️ Comandos utilizados
-touch
-echo
-grep
-wc
-ps
-top
-cp
-cat
-tail
+### ⚙️ Comandos utilizados
+-touch
+-echo
+-grep
+-wc
+-ps
+-top
+-cp
+-cat
+-tail
 
-############# 📊 Objetivo da atividade
+---
+
+### 📊 Objetivo da atividade
 Praticar manipulação de arquivos, busca de informações e monitoramento de processos no ambiente Linux.
+
+---
 
 ### 👨‍💻 Autor
 
