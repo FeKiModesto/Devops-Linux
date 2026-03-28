@@ -14,35 +14,13 @@ O objetivo é aplicar comandos básicos do Linux, organização de arquivos e ve
 - Organização de clientes, transações e logs
 
 ### 📁 aula02
-- (em desenvolvimento)
+- Manipulação de arquivos
+- Busca com grep
+- Análise com wc
+- Monitoramento de processos
 
 ### 📁 aula03
 - (em desenvolvimento)
-
----
-
-## 📘 Detalhamento da Aula 01
-
-Na aula 01 foi criado um sistema simulado com a seguinte estrutura:
-
-### 📁 clientes
-- cliente_001_joao_silva.txt
-- cliente_002_maria_santos.txt
-- cliente_003_pedro_oliveira.txt
-
-### 📁 transacoes
-- transacoes_janeiro_2025.txt
-- transacoes_fevereiro_2025.txt
-
-### 📁 logs
-- sistema_dimdim.log
-- acesso_usuarios.log
-- transacoes_api.log
-- erro_sistema.log
-
-### 📁 relatorios
-
-### 📁 backup
 
 ---
 
