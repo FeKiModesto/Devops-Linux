@@ -24,39 +24,39 @@ Nesta aula foram realizados exercícios voltados à manipulação de arquivos, b
 ### 📄 Criação de arquivos
 
 ### ✍️ Inserção de dados
-echo "Usuario: Joao" > usuarios.txt
-echo "Erro: falha de conexão" > erros.log
+- echo "Usuario: Joao" > usuarios.txt
+- echo "Erro: falha de conexão" > erros.log
 
 ### 🔍 Busca de informações
-grep "Maria" usuarios.txt
-grep "Erro" erros.log
+- grep "Maria" usuarios.txt
+- grep "Erro" erros.log
 
 #### 📊 Análise de dados
-wc -l usuarios.txt
-wc -w usuarios.txt
+- wc -l usuarios.txt
+- wc -w usuarios.txt
 
 ### ⚙️ Processos do sistema
--ps
--top
+- ps
+- top
 
 ### 📁 Backup de arquivos
--mkdir backup
--cp *.txt backup/
+- mkdir backup
+- cp *.txt backup/
 
 ### 🔎 Visualização
--cat usuarios.txt
--tail erros.log
+- cat usuarios.txt
+- tail erros.log
 
 ### ⚙️ Comandos utilizados
--touch
--echo
--grep
--wc
--ps
--top
--cp
--cat
--tail
+- touch
+- echo
+- grep
+- wc
+- ps
+- top
+- cp
+- cat
+- tail
 
 ---
 
