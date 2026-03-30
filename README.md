@@ -20,7 +20,17 @@ O objetivo é aplicar comandos básicos do Linux, organização de arquivos e ve
 - Monitoramento de processos
 
 ### 📁 aula03
-- (em desenvolvimento)
+Configuração do ambiente e execução de aplicação Java via terminal.
+
+- Atualização do sistema (`dnf update`)
+- Instalação do Java (OpenJDK 21)
+- Criação de programa `.java`
+- Compilação com `javac`
+- Execução com `java`
+
+### aula04
+
+- Em desenvolvimento 🚧
 
 ---
 
@@ -30,12 +40,19 @@ O objetivo é aplicar comandos básicos do Linux, organização de arquivos e ve
 - Terminal Bash
 - Git
 - GitHub
+- Java (OpenJDK 21)
 
 ---
 
 ## 🚀 Objetivo do projeto
 
-Praticar conceitos fundamentais de Linux e versionamento, essenciais para ambientes DevOps.
+Praticar conceitos fundamentais de Linux e versionamento, essenciais para ambientes DevOps. Consolidando conhecimento em:
+
+- Sistema operacional Linux
+- Terminal e linha de comando
+- Organização de projetos
+- Versionamento com Git
+- Execução de aplicações
 
 ---
 
