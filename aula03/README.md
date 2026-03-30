@@ -10,7 +10,7 @@ Nesta aula foi realizada a instalação do Java na máquina virtual Linux e a ex
 
 ---
 
-### ☕ Instalação do ava
+### ☕ Instalação do Java 
 
 sudo dnf install java-21-openjdk java-21-openjdk-devel -y
 
@@ -23,8 +23,7 @@ sudo dnf install java-21-openjdk java-21-openjdk-devel -y
 
 ---
 
-### 📄 Criação d programa
-
+### 📄 Criação do programa 
 nano HelloWorld.java
 
 ---
