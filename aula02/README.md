@@ -65,7 +65,7 @@ Praticar manipulação de arquivos, busca de informações e monitoramento de pr
 
 ---
 
-###💻 Autor
+###  Autor
 
 Felipe Kirschner Modesto
 

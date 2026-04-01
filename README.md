@@ -56,6 +56,6 @@ Praticar conceitos fundamentais de Linux e versionamento, essenciais para ambien
 
 ---
 
-##💻 Autor
+##  Autor
 
 Felipe Kirschner Modesto
