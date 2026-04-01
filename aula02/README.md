@@ -1,53 +1,53 @@
-# 📘 Aula 02 - Manipulação de arquivos e processos
+#  Aula 02 - Manipulação de arquivos e processos
 
 Nesta aula foram realizados exercícios voltados à manipulação de arquivos, busca de informações e monitoramento de processos no Linux.
 
 ---
 
-## 📂 Estrutura criada
+##  Estrutura criada
 
-### 📄 arquivos
+###  arquivos
 - usuarios.txt
 - dados_sistema.txt
 
-### 📄 logs
+###  logs
 - acessos.log
 - erros.log
 
-### 📁 backup
+###  backup
 - cópia dos arquivos.txt
 
 ---
 
-## 🛠️ Etapas realizadas
+## Etapas realizadas
 
-### 📄 Criação de arquivos
+###  Criação de arquivos
 
-### ✍️ Inserção de dados
+### Inserção de dados
 - echo "Usuario: Joao" > usuarios.txt
 - echo "Erro: falha de conexão" > erros.log
 
-### 🔍 Busca de informações
+###  Busca de informações
 - grep "Maria" usuarios.txt
 - grep "Erro" erros.log
 
-#### 📊 Análise de dados
+####  Análise de dados
 - wc -l usuarios.txt
 - wc -w usuarios.txt
 
-### ⚙️ Processos do sistema
+### Processos do sistema
 - ps
 - top
 
-### 📁 Backup de arquivos
+###  Backup de arquivos
 - mkdir backup
 - cp *.txt backup/
 
-### 🔎 Visualização
+###  Visualização
 - cat usuarios.txt
 - tail erros.log
 
-### ⚙️ Comandos utilizados
+###  Comandos utilizados
 - touch
 - echo
 - grep
@@ -60,12 +60,12 @@ Nesta aula foram realizados exercícios voltados à manipulação de arquivos, b
 
 ---
 
-### 📊 Objetivo da atividade
+###  Objetivo da atividade
 Praticar manipulação de arquivos, busca de informações e monitoramento de processos no ambiente Linux.
 
 ---
 
-### 👨‍💻 Autor
+###💻 Autor
 
 Felipe Kirschner Modesto
 
