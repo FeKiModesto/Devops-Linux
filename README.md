@@ -1,4 +1,4 @@
-# 💻 Projeto DevOps - Linux
+#  Projeto DevOps - Linux
 
 Este repositório contém atividades práticas da disciplina de DevOps, desenvolvidas utilizando uma máquina virtual Linux na Azure.
 
@@ -6,20 +6,20 @@ O objetivo é aplicar comandos básicos do Linux, organização de arquivos e ve
 
 ---
 
-## 📚 Estrutura do projeto
+##  Estrutura do projeto
 
-### 📁 aula01
+###  aula01
 - Simulação de sistema bancário
 - Criação de diretórios e arquivos
 - Organização de clientes, transações e logs
 
-### 📁 aula02
+###  aula02
 - Manipulação de arquivos
 - Busca com grep
 - Análise com wc
 - Monitoramento de processos
 
-### 📁 aula03
+###  aula03
 Configuração do ambiente e execução de aplicação Java via terminal.
 
 - Atualização do sistema (`dnf update`)
@@ -30,11 +30,11 @@ Configuração do ambiente e execução de aplicação Java via terminal.
 
 ### aula04
 
-- Em desenvolvimento 🚧
+- Em desenvolvimento
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Linux (VM na Azure)
 - Terminal Bash
@@ -44,7 +44,7 @@ Configuração do ambiente e execução de aplicação Java via terminal.
 
 ---
 
-## 🚀 Objetivo do projeto
+##  Objetivo do projeto
 
 Praticar conceitos fundamentais de Linux e versionamento, essenciais para ambientes DevOps. Consolidando conhecimento em:
 
@@ -56,6 +56,6 @@ Praticar conceitos fundamentais de Linux e versionamento, essenciais para ambien
 
 ---
 
-## 👨‍💻 Autor
+##💻 Autor
 
 Felipe Kirschner Modesto
