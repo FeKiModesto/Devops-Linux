@@ -30,7 +30,12 @@ Configuração do ambiente e execução de aplicação Java via terminal.
 
 ### aula04
 
-- Em desenvolvimento
+- Criação de conta na Oracle Cloud para preparação do ambiente em nuvem.
+- Cadastro na plataforma, verificação de identidade e finalização da conta para uso em máquinas virtuais.
+
+### aula05
+
+- em desenvolvimento
 
 ---
 
