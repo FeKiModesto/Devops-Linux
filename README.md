@@ -35,7 +35,12 @@ Configuração do ambiente e execução de aplicação Java via terminal.
 
 ### aula05
 
-- em desenvolvimento
+- Foram realizados testes e práticas com comandos do Azure CLI para gerenciamento de recursos na nuvem, incluindo:
+ - listagem de grupos,
+ - máquinas virtuais,
+ - recursos
+
+Também foram simuladas operações de criação de recursos para fins de aprendizado.
 
 ---
 
