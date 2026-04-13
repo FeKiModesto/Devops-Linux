@@ -9,21 +9,21 @@ O objetivo é aplicar comandos básicos do Linux, organização de arquivos e ve
 ##  Estrutura do projeto
 
 ###  aula01
-- Simulação de sistema bancário
-- Criação de diretórios e arquivos
-- Organização de clientes, transações e logs
+- Simulação de sistema bancário;
+- Criação de diretórios e arquivos;
+- Organização de clientes, transações e logs;
 
 ###  aula02
-- Manipulação de arquivos
-- Busca com grep
-- Análise com wc
-- Monitoramento de processos
+- Manipulação de arquivos;
+- Busca com grep;
+- Análise com wc;
+- Monitoramento de processos;
 
 ###  aula03
 Configuração do ambiente e execução de aplicação Java via terminal.
 
 - Atualização do sistema (`dnf update`)
-- Instalação do Java (OpenJDK 21)
+- Instalação do Java (OpenJDK 21).
 - Criação de programa `.java`
 - Compilação com `javac`
 - Execução com `java`
@@ -35,10 +35,10 @@ Configuração do ambiente e execução de aplicação Java via terminal.
 
 ### aula05
 
-- Foram realizados testes e práticas com comandos do Azure CLI para gerenciamento de recursos na nuvem, incluindo:
+Foram realizados testes e práticas com comandos do Azure CLI para gerenciamento de recursos na nuvem, incluindo:
  - listagem de grupos,
  - máquinas virtuais,
- - recursos
+ - e recursos.
 
 Também foram simuladas operações de criação de recursos para fins de aprendizado.
 
