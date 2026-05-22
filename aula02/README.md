@@ -68,6 +68,3 @@ Praticar manipulação de arquivos, busca de informações e monitoramento de pr
 ###  Autor
 
 Felipe Kirschner Modesto
-
-```bash
-touch usuarios.txt acessos.log erros.log dados_sistema.txt
