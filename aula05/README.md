@@ -38,3 +38,10 @@ az group create --name rg-aula05 --location southafricanorth
 az vm create --name vm-devops --image Ubuntu2204
 az vm list
 az resource list
+```
+
+---
+
+## Autor
+
+Felipe Kirschner Modesto
