@@ -50,6 +50,3 @@ Configurar o ambiente Linux e executar aplicações Java utilizando o terminal.
 ##  Autor
 
 Felipe Kirschner Modesto
-
-```bash
-sudo dnf update -y
